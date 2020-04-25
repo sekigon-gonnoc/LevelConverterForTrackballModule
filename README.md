@@ -14,7 +14,7 @@
 寸法(mm):12.7x11.5x3
 
 ## 販売リンク
-[遊舎工房](https://yushakobo.jp/shop/a0800tl-01-1/)
+[遊舎工房](https://yushakobo.jp/shop/a0800tl-01-1/)  
 [BOOTH](https://nogikes.booth.pm/items/2008258)
 
 ## サンプルプログラム
