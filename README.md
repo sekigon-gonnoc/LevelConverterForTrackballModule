@@ -11,7 +11,7 @@
 
 ![pin_assign](doc/img/main.png)
 
-寸法(mm):12.7x11.5x2.2
+寸法(mm):12.7x11.5
 
 ## 販売リンク
 [遊舎工房](https://yushakobo.jp/shop/a0800tl-01-1/)
