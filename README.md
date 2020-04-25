@@ -13,6 +13,9 @@
 
 寸法(mm):12.7x11.5x2.2
 
+## 販売リンク
+[遊舎工房](https://yushakobo.jp/shop/a0800tl-01-1/)
+
 ## サンプルプログラム
 [Pro Micro用](https://github.com/sekigon-gonnoc/qmk_firmware/tree/dev/ble_micro_pro/keyboards/helix/rev2/keymaps/bto_tb)  
 [BLE Micro Pro用](https://github.com/sekigon-gonnoc/qmk_firmware/tree/dev/ble_micro_pro/keyboards/ble_micro_pro/keymaps/bto_tb)
