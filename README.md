@@ -10,6 +10,7 @@
 自作キーボードのOLED用のピンソケットに差し込んで通信できるようにコントローラ側のピンを配置してあります。ただし、OLED（I2C通信)とのバスの共用は出来ません。
 
 ![pin_assign](doc/img/main.png)
+(NC:Not Connected)
 
 寸法(mm):12.7x11.5x3
 
